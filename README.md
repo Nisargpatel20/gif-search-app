@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Visual Chatbot 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build a Gif Search Application with Search Gif Functionality. User can scroll to get more gifs. Used typescript and react to build this app.
+
+
+## Live Demo
+
+![alt text](https://github.com/Nisargpatel20/gif-search-app/blob/main/gif%20seach%20app.gif)
 
 ## Available Scripts
 
